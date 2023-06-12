@@ -1,3 +1,6 @@
+This is a fork of libpfm4 from  [the official source](https://git.code.sf.net/p/perfmon2/libpfm4)
+
+
           ------------------------------------------------------------
                                     libpfm-4.x:
           a helper library to program the performance monitoring events
